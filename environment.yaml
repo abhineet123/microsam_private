@@ -1,4 +1,4 @@
-name: sam
+name: microsam_conda
 channels:
     - conda-forge
 dependencies:
