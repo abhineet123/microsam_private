@@ -1,3 +1,8 @@
+.gitb/
+.gitp/
+
+pretrained/
+
 # Code coverage files
 coverage.xml
 .coverage*
