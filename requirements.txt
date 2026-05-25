@@ -1,0 +1,19 @@
+nifty >=1.2.3
+imagecodecs
+magicgui
+napari
+natsort
+pooch
+pyqt5
+xxhash
+elf >=0.7.1
+segment-anything
+tqdm
+timm
+trackastra
+xarray
+zarr
+cvat-cli
+paramparse
+tqdm
+opencv-python
